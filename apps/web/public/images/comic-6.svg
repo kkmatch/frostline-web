@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="720" viewBox="0 0 600 720">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e1ffd8"/>
+      <stop offset="1" stop-color="#bfe9ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="720" rx="40" fill="url(#bg)"/>
+  <g stroke="#1b1a17" stroke-width="6" fill="#fff">
+    <rect x="210" y="90" width="180" height="480" rx="30"/>
+    <rect x="230" y="130" width="140" height="160" rx="20"/>
+    <rect x="245" y="320" width="110" height="200" rx="20"/>
+  </g>
+  <circle cx="120" cy="560" r="40" fill="#7cffe1" stroke="#1b1a17" stroke-width="5"/>
+  <circle cx="155" cy="535" r="15" fill="#fff" stroke="#1b1a17" stroke-width="4"/>
+  <text x="300" y="650" font-family="Arial Black, Arial" font-size="28" text-anchor="middle" fill="#1b1a17">MINT POP</text>
+</svg>

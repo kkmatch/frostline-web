@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="900" viewBox="0 0 720 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffd6d6"/>
+      <stop offset="1" stop-color="#ff9f9f"/>
+    </linearGradient>
+    <linearGradient id="body" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#621f1f"/>
+      <stop offset="1" stop-color="#8a2d2d"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="900" rx="44" fill="url(#bg)"/>
+  <g stroke="#1b1a17" stroke-width="6" fill="url(#body)">
+    <rect x="250" y="110" width="220" height="590" rx="22"/>
+    <rect x="280" y="160" width="160" height="190" rx="18" fill="#f8f8f8"/>
+  </g>
+  <path d="M120 200c40-20 80-20 120 0" fill="none" stroke="#1b1a17" stroke-width="6"/>
+  <circle cx="140" cy="190" r="20" fill="#fff" stroke="#1b1a17" stroke-width="5"/>
+  <circle cx="200" cy="190" r="20" fill="#fff" stroke="#1b1a17" stroke-width="5"/>
+  <text x="360" y="790" font-family="Arial Black, Arial" font-size="30" text-anchor="middle" fill="#1b1a17">CHERRY EDGE</text>
+</svg>

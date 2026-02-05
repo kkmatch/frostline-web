@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="900" viewBox="0 0 720 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffe9ef"/>
+      <stop offset="1" stop-color="#ffd0a8"/>
+    </linearGradient>
+    <linearGradient id="body" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4b1f1f"/>
+      <stop offset="1" stop-color="#7a2f2f"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="900" rx="44" fill="url(#bg)"/>
+  <g stroke="#1b1a17" stroke-width="6" fill="url(#body)">
+    <rect x="255" y="120" width="210" height="560" rx="34"/>
+    <rect x="285" y="170" width="150" height="170" rx="22" fill="#f8f8f8"/>
+  </g>
+  <path d="M120 200c40-20 80-20 120 0" fill="none" stroke="#1b1a17" stroke-width="6"/>
+  <circle cx="140" cy="190" r="20" fill="#fff" stroke="#1b1a17" stroke-width="5"/>
+  <circle cx="200" cy="190" r="20" fill="#fff" stroke="#1b1a17" stroke-width="5"/>
+  <rect x="305" y="210" width="110" height="60" rx="12" fill="#fff" stroke="#1b1a17" stroke-width="4"/>
+  <text x="360" y="790" font-family="Arial Black, Arial" font-size="30" text-anchor="middle" fill="#1b1a17">BERRY STORM</text>
+</svg>

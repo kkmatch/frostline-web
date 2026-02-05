@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <defs>
+    <radialGradient id="fog" cx="50%" cy="50%" r="70%">
+      <stop offset="0" stop-color="#dcd6cc" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#dcd6cc" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="fog2" cx="50%" cy="50%" r="70%">
+      <stop offset="0" stop-color="#c9d8e4" stop-opacity="0.65"/>
+      <stop offset="1" stop-color="#c9d8e4" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1400" height="900" fill="none"/>
+  <g fill="url(#fog)">
+    <ellipse cx="220" cy="180" rx="320" ry="170"/>
+    <ellipse cx="620" cy="130" rx="360" ry="200"/>
+    <ellipse cx="1050" cy="220" rx="300" ry="170"/>
+    <ellipse cx="380" cy="430" rx="380" ry="220"/>
+    <ellipse cx="840" cy="470" rx="420" ry="240"/>
+    <ellipse cx="1120" cy="620" rx="280" ry="160"/>
+  </g>
+  <g fill="url(#fog2)">
+    <ellipse cx="140" cy="520" rx="280" ry="160"/>
+    <ellipse cx="520" cy="620" rx="340" ry="200"/>
+    <ellipse cx="980" cy="640" rx="360" ry="210"/>
+  </g>
+</svg>
